@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716596662 source:c:\users\juans\onedrive\escritorio\multilist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

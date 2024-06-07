@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717710390 source:c:\users\juans\onedrive\escritorio\cfac\arbol\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
